@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **parabmrunal20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1SMRYjxm18G4T0ZgNMca8uAB3SfSZFNPF](https://drive.google.com/drive/u/0/folders/1SMRYjxm18G4T0ZgNMca8uAB3SfSZFNPF)
+<!--- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1SMRYjxm18G4T0ZgNMca8uAB3SfSZFNPF](https://drive.google.com/drive/u/0/folders/1SMRYjxm18G4T0ZgNMca8uAB3SfSZFNPF)-->
 
 - ⚡ Fun fact **I enjoy traveling and exploring new places, while also indulging in web technology surfing for fun.**
 
