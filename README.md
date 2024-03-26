@@ -1,3 +1,4 @@
+![logo](https://github.com/mrunal352/mrunal352/blob/main/Black%20Gradient%20Minimalist%20Corporate%20Business%20Personal%20Profile%20New%20LinkedIn%20Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Mrunal Parab</h1>
 <h3 align="center">"Data scientist from India skilled in Python, R, SQL, and ML. Loves transforming data into insights and building models. Ready to collaborate on impactful projects. Let's innovate together! 📊🚀"</h3>
 
