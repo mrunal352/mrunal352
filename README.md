@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mrunal Parab</h1>
 <h3 align="center">"Data scientist from India skilled in Python, R, SQL, and ML. Loves transforming data into insights and building models. Ready to collaborate on impactful projects. Let's innovate together! 📊🚀"</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="coding" width="400" src="DIRECT_GIF_LINK">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/username/repository/branch/image.gif">
+
+
 
 - 🌱 I’m currently learning **"Data science with sklearn 📊 Excited to apply new skills!"**
 
