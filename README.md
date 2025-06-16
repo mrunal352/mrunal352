@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mrunal Parab</h1>
-<h3 align="center">"Data scientist from India skilled in Python, R, SQL, and ML. Loves transforming data into insights and building models. Ready to collaborate on impactful projects. Let's innovate together! 📊🚀"</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/mrunal352/mrunal352/blob/main/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-- 🌱 I’m currently learning **"Data science with sklearn 📊 Excited to apply new skills!"**
+<h3 align="center">
+  "Data scientist from India skilled in Python, R, SQL, and ML. Loves transforming data into insights and building models. Ready to collaborate on impactful projects. Let's innovate together! 📊🚀"
+</h3>
 
-- 💬 Ask me about **Python 🐍, pandas 🐼, SQL 🗃️,Matplotlib📊,Machine learning algorithms 🤖**
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/mrunal352/mrunal352/main/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 📫 How to reach me **parabmrunal20@gmail.com**
+<p>- 🌱 I’m currently learning <strong>"Data science with sklearn 📊 Excited to apply new skills!"</strong></p>
+
+<p>- 💬 Ask me about <strong>Python 🐍, pandas 🐼, SQL 🗃️, Matplotlib 📊, Machine learning algorithms 🤖</strong></p>
+
+<p>- 📫 How to reach me <strong>parabmrunal20@gmail.com</strong></p>
+
 
 - 📄 Know about my experiences [At Rubixe, as an intern, I handle data cleaning, contribute to algorithm development, and use data science methods to extract insights from large datasets. This enhances collaboration for innovative solutions and advances our mission of technological innovation.](At Rubixe, as an intern, I handle data cleaning, contribute to algorithm development, and use data science methods to extract insights from large datasets. This enhances collaboration for innovative solutions and advances our mission of technological innovation.)
 
